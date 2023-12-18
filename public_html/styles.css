@@ -1,0 +1,75 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 16 dic 2023, 16:53:41
+    Author     : Vera
+*/
+body {
+    background-color: #F9FDF0;
+}
+.centrarImagen{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    background-color: #3E994F;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+h2 {
+    color: #56725B;
+    text-align: center;
+    font-size: 28px;
+}
+
+h3 {
+    color: #56725B;
+    text-align: center;
+    font-size: 24px;
+}
+
+h4 {
+    color: #56725B;
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 2px;
+}
+
+p {
+    color: #455648;
+    text-align: center;
+    font-size: 21px;
+    font-family: Tahoma;
+
+
+}
+
+ol {
+    color: #455648;
+    text-align: center;
+    font-size: 21px;
+    list-style-type: none;
+
+}
+
+div {
+    color: #455648;
+    text-align: center;
+    font-size: 18px;
+    font-family: Tahoma;
+    margin-top: -1px;
+
+}
+
+footer {
+    background-color: #3E994F;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
